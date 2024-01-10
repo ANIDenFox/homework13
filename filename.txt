@@ -1,0 +1,2 @@
+Nickname: aaaaaaa
+Password: 6666666
